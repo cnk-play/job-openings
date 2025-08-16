@@ -175,31 +175,31 @@
     <div class="container">
         <div class="header">
             <h1>Join Cami's Team</h1>
-            <p>Building the future of AI-native experiences at AWS</p>
+            <p>Ready to build the future of work with AI?</p>
         </div>
         
         <div class="content">
             <div class="intro">
-                <h2>We're Building Something Special</h2>
-                <p>Our team is focused on creating AI-native experiences that set new standards for what's possible. We're looking for passionate builders who want to work directly with customers to solve real problems and push the boundaries of innovation.</p>
+                <p>Our team is creating the tools that will allow people to do great work alongside AI agents. We're looking for missionary and scrappy builders who want to work directly with customers and push the boundaries of what's possible with agentic AI.</p>
+                <p style="margin-top: 20px;">Learn more about our vision from <a href="https://www.youtube.com/watch?v=M2MwRtUyB0k" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 600;">Matt Garman</a> and <a href="https://youtu.be/_CizhGOgfTE?si=5QDyKaKthriTSA5B&t=447" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 600;">Colleen Aubrey</a>.</p>
             </div>
             
             <div class="jobs-grid">
                 <div class="job-card">
                     <h3 class="job-title">Software Developer</h3>
-                    <p class="job-description">Join our team to build cutting-edge AI solutions that will transform how customers interact with technology. You'll work on scalable systems and innovative user experiences.</p>
+                    <p class="job-description">Join our team to build cutting-edge AI solutions that will transform how customers interact with technology. You'll build scalable systems from scratch and create innovative user experiences.</p>
                     <a href="https://www.amazon.jobs/en/jobs/3052980/software-developer-applied-ai-solutions?no_int_redir=1" class="apply-btn" target="_blank">Apply Now</a>
                 </div>
                 
                 <div class="job-card">
                     <h3 class="job-title">Front-End Engineer</h3>
-                    <p class="job-description">Create exceptional user interfaces for AI-powered applications. You'll be at the forefront of designing intuitive experiences that make complex AI accessible.</p>
+                    <p class="job-description">Create exceptional user interfaces in business applications that are built with AI. You'll be at the forefront of designing intuitive experiences that make our products AI native.</p>
                     <a href="https://www.amazon.jobs/en/jobs/3060352/front-end-engineer-applied-ai-solutions?no_int_redir=1" class="apply-btn" target="_blank">Apply Now</a>
                 </div>
                 
                 <div class="job-card">
                     <h3 class="job-title">Senior Applied Scientist</h3>
-                    <p class="job-description">Lead research and development of novel AI algorithms and models. Drive innovation in applied AI and machine learning to solve complex customer problems.</p>
+                    <p class="job-description">Lead research and development of novel AI algorithms and models. Drive innovation in applied AI and reinforcement learnings to solve complex customer problems.</p>
                     <a href="https://www.amazon.jobs/en/jobs/3059862/sr-applied-scientist-applied-ai-solutions?no_int_redir=1" class="apply-btn" target="_blank">Apply Now</a>
                 </div>
                 
@@ -211,7 +211,7 @@
                 
                 <div class="job-card">
                     <h3 class="job-title">Senior Manager, Applied Science</h3>
-                    <p class="job-description">Lead a team of applied scientists and researchers. Shape the technical direction of our AI initiatives while building and scaling high-performing teams.</p>
+                    <p class="job-description">Lead a team of applied scientists and researchers. Shape the technical direction and science roadmap for our AI initiatives while building and scaling high-performing teams.</p>
                     <a href="https://www.amazon.jobs/en/jobs/3053070/sr-manager-applied-science-applied-ai-solutions?no_int_redir=1" class="apply-btn" target="_blank">Apply Now</a>
                 </div>
             </div>
